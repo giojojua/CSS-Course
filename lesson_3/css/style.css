@@ -1,0 +1,13 @@
+div {
+    height: 600px;
+    width: 800px;
+}
+
+p {
+    font-family: 'Lato', sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    font-style: italic;
+    letter-spacing: 3px;
+    line-height: 100px;
+}

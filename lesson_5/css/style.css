@@ -1,0 +1,29 @@
+/* .box {
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    border: 5px solid black;
+    border-radius: 250px;
+    box-shadow: 20px 10px 5px 2px black;
+} */
+
+a:hover {
+    color: red;
+}
+
+a:visited {
+    color: violet;
+}
+
+button:focus {
+    background-color: green;
+}
+
+.name_field::placeholder {
+    color: orange;
+}
+
+.checkbox:checked {
+    height: 30px;
+    width: 30px;
+}

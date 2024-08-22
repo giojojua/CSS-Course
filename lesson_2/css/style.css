@@ -1,0 +1,11 @@
+p {
+    color: green;
+}
+
+.heading {
+    color: orange !important;
+}
+
+#heading {
+    color: blue !important;
+}
